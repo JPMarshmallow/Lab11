@@ -14,7 +14,7 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 ## Lab Questions
 
 From this lab, We learned how edge triggering changes the behavior of latches. 
-We also learned how the JK flip flop may be a nuniveral application that can be used as a d flip flop and a t flip flop
+We also learned how the JK flip flop may be a universal application that can be used as a d flip flop and a t flip flop
 
 ### What is different between edge and level sensitive circuits?
 
